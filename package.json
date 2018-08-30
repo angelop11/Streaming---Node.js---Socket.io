@@ -1,0 +1,24 @@
+{
+  "name": "streaming",
+  "version": "0.0.1",
+  "description": "Creacion de video streaming con express, socket.io y api's de javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "socket.io",
+    "requestAnimationFrame",
+    "getUserMedia",
+    "canvas",
+    "windows.URL",
+    "streaming"
+  ],
+  "author": "@angelop11",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
+  }
+}
